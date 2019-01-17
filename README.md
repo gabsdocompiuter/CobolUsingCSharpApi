@@ -1,2 +1,2 @@
 # CobolUsingCSharpApi
-COBOL consumindo API em C#
+COBOL consuming a C# API
