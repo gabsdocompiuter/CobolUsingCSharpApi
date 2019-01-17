@@ -23,7 +23,6 @@
            set   DLL     to ENTRY "CSharpApi.dll".
            CALL "ShowMessage".
 
-           STOP " CONFIRME PARA PROSSEGUIR ".
-          
+           STOP "Program execution ended".
            STOP RUN.
 
