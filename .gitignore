@@ -1,4 +1,5 @@
 #Cobol bin files
+*.$dy
 *.idy
 *.int
 
