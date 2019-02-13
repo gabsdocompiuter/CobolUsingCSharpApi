@@ -1,5 +1,5 @@
        identification division.
-       PROGRAM-ID.    test1.
+       PROGRAM-ID.    mensagem-simples.
        AUTHOR.        Gabriel Monteiro.
        DATE-COMPILED.
        ENVIRONMENT    DIVISION.
@@ -20,7 +20,7 @@
        procedure division.
 
        main section.
-           set   DLL     to ENTRY "CSharpApi.dll".
+           set   DLL     to ENTRY "dll\CSharpApi.dll".
            CALL "ShowMessage".
 
            STOP "Program execution ended".
