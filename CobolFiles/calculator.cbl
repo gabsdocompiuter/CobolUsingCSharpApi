@@ -26,7 +26,7 @@
        procedure division.
 
        main section.
-           set DLL to entry "Calc.dll".
+           set DLL to entry "dll\Calc.dll".
 
            move  123   to var1 var2 var3
 
